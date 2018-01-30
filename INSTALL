@@ -1,0 +1,9 @@
+Building HellasCASH
+
+See doc/readme-qt.rst for instructions on building HellasCASH-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of HellasCASH.
+
+See doc/build-*.txt for instructions on building hellascashd,
+the intended-for-services, no-graphical-interface, reference
+implementation of HellasCASH.
